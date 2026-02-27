@@ -1,7 +1,7 @@
 # alveoli-code
 Supporting code
 
-Scripts used to analyze data and generate plots for the publication (insert DOI)
+Scripts used to analyze data and generate plots for the publication (10.1093/ismejo/wraf279)
 
 - squares_checker.py is a python script that allows the visualization and interactive adjustment of 2 square regions of interest in an image. It can take a set of coordinates that need adjsuting/checking.
 - spectral_overlap_correction.py takes 2 fluorescence images (A and B) with a one-way spectral overlap (A is partially visible in B) and removes the signal overlapping signal (removes A from B).
